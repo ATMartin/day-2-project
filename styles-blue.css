@@ -1,0 +1,24 @@
+h1 {
+  margin-left: 100px;
+  margin-bottom: 0px;
+  margin-top: 0px;
+}
+
+img {
+  margin: 50px;
+  padding: 10px;
+  border: 2px dashed green;
+}
+
+header {
+  margin-left: 300px;
+}
+.first-link {
+  margin-right: 50px;
+}
+
+a { padding: 20px; }
+
+* {
+  border: 1px solid blue;
+}
